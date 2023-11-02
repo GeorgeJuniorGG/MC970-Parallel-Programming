@@ -1,0 +1,24 @@
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/lovelace/proj/proj930/g216741/cuda-exercises-GeorgeJuniorGG/03-Smoothing/build
+Consolidate compiler generated dependencies of target serial
+[ 50%] Built target serial
+Consolidate compiler generated dependencies of target parallel
+[ 75%] Building CUDA object CMakeFiles/parallel.dir/src/smooth-parallel.cu.o
+[100%] Linking CUDA executable parallel
+[100%] Built target parallel
+  Serial runtime: 0.367072s
+Parallel runtime: 0.002348s
+         Speedup: 156.3339x
+  Serial runtime: 0.826915s
+Parallel runtime: 0.003724s
+         Speedup: 222.0502x
+  Serial runtime: 3.298187s
+Parallel runtime: 0.013092s
+         Speedup: 251.9238x
+  Serial runtime: 3.300709s
+Parallel runtime: 0.013104s
+         Speedup: 251.8856x
+  Serial runtime: 11.425613s
+Parallel runtime: 0.040155s
+         Speedup: 284.5377x

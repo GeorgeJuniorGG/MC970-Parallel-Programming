@@ -1,0 +1,14 @@
+.vscode
+# Ignore build directory
+build/
+
+# Ignore object files
+*.o
+
+# Ignore executables
+*.out
+
+# Ignore generated files
+CMakeCache.txt
+CMakeFiles/
+Makefile

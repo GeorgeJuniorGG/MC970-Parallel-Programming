@@ -1,0 +1,2 @@
+Loading compilers GNU version 9.4.0 - gfortran, gcc, g++
+nvcc warning : The 'compute_35', 'compute_37', 'compute_50', 'sm_35', 'sm_37' and 'sm_50' architectures are deprecated, and may be removed in a future release (Use -Wno-deprecated-gpu-targets to suppress warning).

@@ -1,0 +1,32 @@
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/lovelace/proj/proj930/g216741/cuda-exercises-GeorgeJuniorGG/01-MatSum/build
+Consolidate compiler generated dependencies of target serial
+[ 50%] Built target serial
+Consolidate compiler generated dependencies of target parallel
+[100%] Built target parallel
+1980000
+1980000
+  Serial runtime: 0.000013s
+Parallel runtime: 0.000031s
+         Speedup: .4193x
+1973950650
+1973950650
+  Serial runtime: 0.000930s
+Parallel runtime: 0.000040s
+         Speedup: 23.2500x
+8136022932
+8136022932
+  Serial runtime: 0.002316s
+Parallel runtime: 0.000060s
+         Speedup: 38.6000x
+388872208890
+388872208890
+  Serial runtime: 0.023402s
+Parallel runtime: 0.000419s
+         Speedup: 55.8520x
+4843668756300
+4843668756300
+  Serial runtime: 0.121426s
+Parallel runtime: 0.002052s
+         Speedup: 59.1744x
